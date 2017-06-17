@@ -5,7 +5,6 @@
 /node_modules
 /composer.phar
 /build/logs/*
-/vendor
 /cov
 /web/bundles
 /web/css
